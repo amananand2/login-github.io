@@ -1,0 +1,41 @@
+.form{
+    background-image: linear-gradient(pink,#24a0ed);
+    height:100vh;
+}
+
+h2{
+    text-align: center;
+}
+
+input{
+    width:90%;
+    border-radius: 4px;
+}
+
+.form-field{
+    padding:20px;
+}
+
+.form-design{
+    margin-top:50px;
+    width:550px;
+    margin:0 auto;
+    background-color:white;
+    position: relative;
+    top: 10%;
+}
+
+button{
+    color:white;
+    background-color: #24a0ed ;
+    height:20px;
+    width: 50px;
+    margin:0 auto;
+    border-style: none;
+    /* border: 2px solid red; */
+    width: 80%;
+    margin-top: 24px;
+    border-radius: 4px;
+    margin-left:40px;
+    margin-bottom:10px;
+}

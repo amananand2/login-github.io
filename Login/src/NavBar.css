@@ -1,0 +1,47 @@
+.NavItems{
+    background-color: rgb(74, 140, 202);
+    position: relative;
+}
+
+.NavLeft{
+    padding: 20px;
+}
+
+.links{
+    margin-left:20px;
+}
+.Logout{
+    background-color: grey;
+    border-radius:4px;
+    opacity:0.7;
+    width: 56px;
+    position:absolute;
+    right:1%;
+    cursor: pointer;
+}
+
+.Profile{
+    width: 81px;
+    height: 30px;
+    float: right;
+    margin-top: -7px;
+    margin-right: 23px;
+    cursor: pointer;
+
+}
+
+.ShowMore{
+    width:140px;
+    margin:0 auto;
+    position: relative;
+    left: 44%;
+    margin-top: 57px;
+}
+
+.NotActive{
+    display: none;
+}
+
+.Active{
+    display:block;
+}
